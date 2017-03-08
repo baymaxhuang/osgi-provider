@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+
+
